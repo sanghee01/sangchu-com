@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 type Props = {
-  childeren: ReactNode;
+  children: ReactNode;
   modal: ReactNode;
 };
 

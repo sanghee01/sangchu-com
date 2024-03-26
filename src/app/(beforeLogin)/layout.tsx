@@ -2,7 +2,7 @@ import { ReactNode } from "react";
 import styles from "@/app/page.module.css";
 
 type Props = {
-  childeren: ReactNode;
+  children: ReactNode;
   modal: ReactNode;
 };
 
